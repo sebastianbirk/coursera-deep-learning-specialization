@@ -8,5 +8,5 @@ This repository contains all source code that I have produced while working thro
 
 | File / folder                         | Description 
 |-------------------------------------|-----------------------------------------------------------------
-| `neural-networks-and-deep-learning` | Contains the source code for the "Neural Networks and Deep Learning" course. This includes numpy basics, building a logistic regression model as NN
+| `neural-networks-and-deep-learning` | Contains the source code for the "Neural Networks and Deep Learning" course. This includes jupyter notebooks for numpy basics and for building a logistic regression model as NN.
 | `README.md`                         | This README file.
