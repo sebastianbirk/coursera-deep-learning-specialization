@@ -6,7 +6,7 @@ This repository contains all source code that I have produced while working thro
 
 ## Contents
 
-| File/folder                         | Description 
+| File / folder                         | Description 
 |-------------------------------------|-----------------------------------------------------------------
 | `neural-networks-and-deep-learning` | Contains the source code for the "Neural Networks and Deep Learning" course. This includes numpy basics, building a logistic regression model as NN
 | `README.md`                         | This README file.
