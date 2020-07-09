@@ -2,7 +2,7 @@
 
 ## Description
 This is currently WIP!
-This repository contains all source code that I have produced while working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning]) of Andrew Ng on Coursera.
+This repository contains all source code that I have produced while working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Andrew Ng on Coursera.
 
 ## Contents
 
