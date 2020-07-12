@@ -7,6 +7,6 @@ This repository contains all source code that I have produced while working thro
 ## Contents
 
 | File / folder                         | Description 
-|-------------------------------------|-----------------------------------------------------------------
-| `neural-networks-and-deep-learning` | This folder contains the source code for the "Neural Networks and Deep Learning" course. This includes jupyter notebooks for numpy basics and for building a logistic regression model as NN.
-| `README.md`                         | This README file.
+|-----------------------------------|-----------------------------------------------------------------
+|`neural-networks-and-deep-learning`| This folder contains the source code for the "Neural Networks and Deep Learning" course. This includes jupyter notebooks for numpy basics, for building a logistic regression model as NN, for building a 3-layer NN with numpy to classify different generated datasets and xx.
+|`README.md`                        | This README file.
