@@ -8,9 +8,9 @@ This repository contains all source code that I have produced while working thro
 
 | File / folder                         | Description 
 |-----------------------------------|-----------------------------------------------------------------
-|`neural-networks-and-deep-learning`| This folder contains the source code for the "Neural Networks and Deep Learning" course. This includes jupyter notebooks for numpy basics, for building a logistic regression model as NN, for building a 3-layer NN with numpy to classify different generated datasets and for building a multilayer NN to classify images into cat and non-cat images.
-|`improving-dnns-with-hyperparameter-tuning-regularization-and-optimization`| 
-|`structuring-machine-learning-projects`| 
-|`convolutional-neural-networks`| 
-|`sequence-models`| 
+|`neural-networks-and-deep-learning`| This folder contains the source code as well as notes for the "Neural Networks and Deep Learning" course. This includes jupyter notebooks for numpy basics, for building a logistic regression model as NN, for building a 3-layer NN with numpy to classify different generated datasets and for building a multilayer NN to classify images into cat and non-cat images.
+|`improving-dnns-with-hyperparameter-tuning-regularization-and-optimization`| This folder contains the source code as well as notes for the "Improving DNNs with Hyperparameter Tuning, Regularization and Optimization" course.
+|`structuring-machine-learning-projects`| This folder contains the notes for the "Structuring Machine Learning Projects" course. 
+|`convolutional-neural-networks`| This folder contains the source code as well as notes for the "Convolutional Neural Networks" course.
+|`sequence-models`| This folder contains the source code as well as notes for the "Sequence Models" course.
 |`README.md`                        | This README file.
