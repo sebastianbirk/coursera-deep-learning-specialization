@@ -12,5 +12,5 @@ This repository contains all source code that I have produced while working thro
 |`improving-dnns-with-hyperparameter-tuning-regularization-and-optimization`| This folder contains the source code as well as notes for the "Improving DNNs with Hyperparameter Tuning, Regularization and Optimization" course. This includes jupyter notebooks for gradient checking, for comparison of different optimizers and for a tensorflow tutorial.
 |`structuring-machine-learning-projects`| This folder contains the notes for the "Structuring Machine Learning Projects" course. There were no coding exercises in this course.
 |`convolutional-neural-networks`| This folder contains the source code as well as notes for the "Convolutional Neural Networks" course. This includes juypter notebooks for building a convnet in numpy, for building a convnet with tensorflow, for a keras tutorial and for face recognition.
-|`sequence-models`| This folder contains the source code as well as notes for the "Sequence Models" course.
+|`sequence-models`| This folder contains the source code as well as notes for the "Sequence Models" course. This includes jupyter notebooks for jazz improvisation with a Keras LSTM,
 |`README.md`                        | This README file.
