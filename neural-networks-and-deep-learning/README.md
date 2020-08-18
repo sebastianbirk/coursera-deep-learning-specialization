@@ -1,6 +1,6 @@
 # Installing the Conda Environment and Using it in Jupyter Notebook
 
-1. `conda env create -f nndl_env.yml`
+1. `conda env create -f nndl_environment.yml`
 2. `conda activate nndl`
 3. `python -m ipykernel install --user --name=nndl`
 4. Change kernel to nndl in Jupyter Notebook (see screenshot)
