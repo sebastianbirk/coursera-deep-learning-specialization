@@ -1,4 +1,4 @@
-# Installing the Conda Environment and Using it in Jupter Notebook
+# Installing the Conda Environment and Using it in Jupyter Notebook
 
 1. `conda env create -f nndl_env.yml`
 2. `conda activate nndl`
