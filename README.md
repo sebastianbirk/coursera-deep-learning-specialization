@@ -20,5 +20,6 @@ This repository contains all source code as well as notes that I have produced w
 2. `conda activate dlspec`
 3. `python -m ipykernel install --user --name=dlspec`
 4. Change kernel to dlspec in Jupyter Notebook (see screenshot)
-![image](https://user-images.githubusercontent.com/34235961/90504540-8a78e200-e151-11ea-8dee-94d2feb32d06.png)
+![image](https://user-images.githubusercontent.com/34235961/90600791-78517f00-e1f7-11ea-84f8-9990b82e94d4.png)
+
 
