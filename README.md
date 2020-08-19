@@ -14,6 +14,7 @@ This repository contains all source code as well as notes that I have produced w
 |`README.md`                        | This README file.
 |`dlspec_environment.yml`           | The conda environment to run all Jupyter Notebooks. 
 
+
 ## Installing the Conda Environment and Using it in Jupyter Notebook
 
 1. `conda env create -f dlspec_environment.yml`
