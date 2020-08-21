@@ -22,7 +22,7 @@ This repository contains all source code as well as notes that I have produced w
 | npdlspec | npdlspec.yml 
 | tfdlspec | tfdlspec.yml
 
-### Install instructions
+### Installation Instructions
 1. `conda env create -f [FILE_NAME]`
 2. `conda activate [ENVIRONMENT_NAME]`
 3. `python -m ipykernel install --user --name=[ENVIRONMENT_NAME]`
