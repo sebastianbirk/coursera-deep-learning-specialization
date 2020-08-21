@@ -12,7 +12,8 @@ This repository contains all source code as well as notes that I have produced w
 |`convolutional-neural-networks`| This folder contains the source code as well as notes for the "Convolutional Neural Networks" course. This includes juypter notebooks for building a convnet in numpy, for building a convnet with tensorflow, for a keras tutorial and for face recognition.
 |`sequence-models`| This folder contains the source code as well as notes for the "Sequence Models" course. This includes jupyter notebooks for jazz improvisation with a Keras LSTM,
 |`README.md`                        | This README file.
-|`dlspec_environment.yml`           | The conda environment to run all Jupyter Notebooks. 
+|`npdlspec.yml`                     | The conda environment to run all Jupyter Notebooks based on numpy. 
+|`tfdlspec.yml`                     | The conda environment to run all Jupyter Notebooks based on tensorflow. 
 
 ## Installing the Conda Environment and Using it in Jupyter Notebook
 
