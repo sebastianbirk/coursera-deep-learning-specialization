@@ -16,10 +16,15 @@ This repository contains all source code as well as notes that I have produced w
 
 ## Installing the Conda Environment and Using it in Jupyter Notebook
 
-1. `conda env create -f dlspec_environment.yml`
-2. `conda activate dlspec`
-3. `python -m ipykernel install --user --name=dlspec`
-4. Change kernel to dlspec in Jupyter Notebook (see screenshot)
+### Two environments are available
+- ENVIRONMENT_NAME: npdlspec -- FILE_NAME: npdlspec.yml
+- ENVIRONMENT_NAME: tfdlspec -- FILE_NAME: tfdlspec.yml
+
+### Install instructions
+1. `conda env create -f [FILE_NAME]`
+2. `conda activate [ENVIRONMENT_NAME]`
+3. `python -m ipykernel install --user --name=[ENVIRONMENT_NAME]`
+4. Change kernel to [ENVIRONMENT_NAME] in Jupyter Notebook (see screenshot)
 ![image](https://user-images.githubusercontent.com/34235961/90600791-78517f00-e1f7-11ea-84f8-9990b82e94d4.png)
 
 
