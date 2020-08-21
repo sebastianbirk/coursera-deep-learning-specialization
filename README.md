@@ -17,8 +17,9 @@ This repository contains all source code as well as notes that I have produced w
 ## Installing the Conda Environment and Using it in Jupyter Notebook
 
 ### Two environments are available
-- ENVIRONMENT_NAME: npdlspec -- FILE_NAME: npdlspec.yml
-- ENVIRONMENT_NAME: tfdlspec -- FILE_NAME: tfdlspec.yml
+| ENVIRONMENT_NAME | FILE_NAME |
+| npdlspec | npdlspec.yml |
+| tfdlspec | tfdlspec.yml |
 
 ### Install instructions
 1. `conda env create -f [FILE_NAME]`
