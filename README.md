@@ -16,7 +16,7 @@ This repository contains all source code as well as notes that I have produced w
 
 ## Installing the Conda Environment and Using it in Jupyter Notebook
 
-### Two environments are available
+### Available Environments
 | ENVIRONMENT_NAME | FILE_NAME 
 |------------------|-----------
 | npdlspec | npdlspec.yml 
