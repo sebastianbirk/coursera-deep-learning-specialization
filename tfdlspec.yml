@@ -9,4 +9,10 @@ dependencies:
   - pillow=7.2.0
   - scipy=1.1.0
   - tensorflow=1.2.1
+  - pydot=1.4.1
+  - pydotplus=2.0.2
+  - pip=20.2.2
+  - pip:
+    - keras==2.0.5
+    - graphviz==0.14.1
 
