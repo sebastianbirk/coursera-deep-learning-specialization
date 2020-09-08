@@ -2,10 +2,12 @@ name: smdlspec
 channels:
   - conda-forge
   - defaults
+  - mbonix
 dependencies:
   - h5py=2.10.0
   - ipykernel=5.3.4
   - jupyter=1.0.0
+  - music21=5.0.5a2
   - pip=20.2.2
   - tensorflow=1.2.1
   - pip:
