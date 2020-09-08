@@ -31,6 +31,6 @@ This repository contains all source code as well as notes that I have produced w
 ![image](https://user-images.githubusercontent.com/34235961/90600791-78517f00-e1f7-11ea-84f8-9990b82e94d4.png)
 
 ## Sources & Links
-Download source files from Coursera: https://www.coursera.org/learn/neural-networks-deep-learning/discussions/forums/a-1G6KlmEeeYBA47k-OCuA/threads/LTMmAazcEemTxQ73F53h-A
-
+1. Download source files from Coursera: https://www.coursera.org/learn/neural-networks-deep-learning/discussions/forums/a-1G6KlmEeeYBA47k-OCuA/threads/LTMmAazcEemTxQ73F53h-A
+2. Git Large File Storage: https://git-lfs.github.com/
 
