@@ -1,12 +1,2 @@
-01-neural-networks-and-deep-learning/.ipynb_checkpoints
-01-neural-networks-and-deep-learning/__pycache__
-02-improving-dnns-with-hyperparameter-tuning-regularization-and-optimization/.ipynb_checkpoints
-02-improving-dnns-with-hyperparameter-tuning-regularization-and-optimization/__pycache__
-04-convolutional-neural-networks/.ipynb_checkpoints
-04-convolutional-neural-networks/__pycache__
-05-sequence-models/01-building-a-rnn-and-lstm-using-numpy/.ipynb_checkpoints
-05-sequence-models/01-building-a-rnn-and-lstm-using-numpy/__pycache__
-05-sequence-models/02-character-level-language-model-with-numpy-rnn/.ipynb_checkpoints
-05-sequence-models/02-character-level-language-model-with-numpy-rnn/__pycache__
-05-sequence-models/03-jazz-improvisation-with-keras-lstm/.ipynb_checkpoints
-05-sequence-models/03-jazz-improvisation-with-keras-lstm/__pycache__
+**/.ipynb_checkpoints
+**/__pycache__
