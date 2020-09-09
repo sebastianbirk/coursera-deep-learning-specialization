@@ -21,8 +21,8 @@ This repository contains all source code as well as notes that I have produced w
 | ENVIRONMENT_NAME | FILE_NAME | DESCRIPTION 
 |------------------|-----------|-------------
 | npdlspec | npdlspec.yml |
-| tfdlspec | tfdlspec.yml |
-| smdlspec | smdlspec.yml | Environment file for 05-sequence-models
+| cnndlspec | cnndlspec.yml | Environment file for 04-convolutional-neural-networks
+| smdlspec  | smdlspec.yml  | Environment file for 05-sequence-models
 
 ### Installation Instructions
 1. `conda env create -f [FILE_NAME]`
