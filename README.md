@@ -18,11 +18,11 @@ This repository contains all source code as well as notes that I have produced w
 ## Installing the Conda Environment and Using it in Jupyter Notebook
 
 ### Available Environments
-| ENVIRONMENT_NAME | FILE_NAME | DESCRIPTION 
-|------------------|-----------|-------------
-| npdlspec | npdlspec.yml |
-| cnndlspec | cnndlspec.yml | Environment file for 04-convolutional-neural-networks
-| smdlspec  | smdlspec.yml  | Environment file for 05-sequence-models
+| ENVIRONMENT_NAME | FILE_NAME     | DESCRIPTION 
+|------------------|---------------|-------------
+| nndlspec         | nndlspec.yml  | Environment file for 01-neural-networks-and-deep-learning
+| cnndlspec        | cnndlspec.yml | Environment file for 04-convolutional-neural-networks
+| smdlspec         | smdlspec.yml  | Environment file for 05-sequence-models
 
 ### Installation Instructions
 1. `conda env create -f [FILE_NAME]`
