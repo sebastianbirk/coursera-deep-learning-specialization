@@ -1,0 +1,15 @@
+name: nndlspec
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - h5py==2.10.0
+  - ipykernel=5.3.4
+  - jupyter=1.0.0
+  - matplotlib=3.2.2
+  - numpy=1.18.5
+  - pillow=7.2.0
+  - scikit-learn=0.23.2
+  - scipy=1.1.0
+
+
