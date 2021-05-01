@@ -1,0 +1,2 @@
+
+![convolutional_networks_banner](https://github.com/sebastianbirk/coursera-deep-learning-specialization/blob/master/images/convolutional_networks_banner.jpg)
