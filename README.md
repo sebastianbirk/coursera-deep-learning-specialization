@@ -20,10 +20,10 @@ This repository contains all source code and lecture notes of the [Deep Learning
 ### Available Environments
 | ENVIRONMENT_NAME | FILE_NAME        | DESCRIPTION 
 |------------------|------------------|-------------
-| nndlspec         | nndlspec.yml     | Environment file for 01-neural-networks-and-deep-learning
-| improvdlspec     | improvdlspec.yml | Environment file for 02-improving-dnns-with-hyperparameter-tuning-regularization-and-optimization
-| cnndlspec        | cnndlspec.yml    | Environment file for 04-convolutional-neural-networks
-| smdlspec         | smdlspec.yml     | Environment file for 05-sequence-models
+| nndlspec         | nndlspec.yml     | Environment file for 01_neural_networks_and_deep_learning
+| improvdlspec     | improvdlspec.yml | Environment file for 02_improving_dnns_with_hyperparameter_tuning_regularization_and_optimization
+| cnndlspec        | cnndlspec.yml    | Environment file for 04_convolutional_neural_networks
+| smdlspec         | smdlspec.yml     | Environment file for 05_sequence_models
 
 ### Installation Instructions
 1. `conda env create -f [FILE_NAME]`
