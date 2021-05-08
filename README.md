@@ -3,7 +3,7 @@
 ![deep_learning_specialization_banner](https://github.com/sebastianbirk/coursera-deep-learning-specialization/blob/master/images/deep_learning_specialization_banner.jpg)
 
 ## Description
-This repository contains all source code as well as notes that I have produced while working through the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Andrew Ng on Coursera.
+This repository contains all source code and lecture notes of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of Andrew Ng on Coursera.
 
 ## Contents
 | File / folder                        | Description 
